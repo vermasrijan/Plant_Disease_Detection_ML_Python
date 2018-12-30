@@ -14,7 +14,11 @@ Cross Entropy Loss Function used .
 ReLu (Rectified Linear Unit) used after every convolutional and fully connected layer .
 
 # Specifications of the dataset used
-Used 4 classes from the Plant Village Dataset :1. Tomato Bacterial Spot2. Tomato Healthy3. Tomato Septoria Spot4. Tomato Curl Virus
+Used 4 classes from the Plant Village Dataset :
+1. Tomato Bacterial Spot
+2. Tomato Healthy
+3. Tomato Septoria Spot
+4. Tomato Curl Virus
 Total Training images used = 4000 (1000 from each class)
 Total Testing images used = 800 (200 from each class)
 Train:Val split used was 9:1 
