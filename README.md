@@ -46,3 +46,9 @@ Batch size = 32
 
 Loss = 0.42
 
+![image](https://user-images.githubusercontent.com/24618926/50550345-d8975400-0c94-11e9-9807-2aac5795b9f4.png)
+
+
+![image](https://user-images.githubusercontent.com/24618926/50550347-ddf49e80-0c94-11e9-99b7-8004d3498174.png)
+
+
