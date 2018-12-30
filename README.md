@@ -19,6 +19,7 @@ Used 4 classes from the Plant Village Dataset :
 2. Tomato Healthy
 3. Tomato Septoria Spot
 4. Tomato Curl Virus
+
 Total Training images used = 4000 (1000 from each class)
 Total Testing images used = 800 (200 from each class)
 Train:Val split used was 9:1 
