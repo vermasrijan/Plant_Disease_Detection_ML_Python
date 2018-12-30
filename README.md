@@ -1,5 +1,7 @@
 # Plant_Disease_Detection_ML_Python (Convolutional Neural Network) (under the guidance of Prof. Sundaresan Raman)
 
+![image](https://user-images.githubusercontent.com/24618926/50550370-3d52ae80-0c95-11e9-8a76-949053e8d428.png)
+
 Used AlexNet with Tensorflow DL framework for classifying diseased leaf images .
 
 # Problem Statement: - 
